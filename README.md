@@ -18,3 +18,4 @@ Vamos a obtener los _consejos_ de una API que se encuentra en [esta Web](https:/
 ## Preguntas de auto evaluación
 
 1. Describe con exactitud el tipo de datos que podemos obtener de la respuesta de la API (es un array? es un objeto? que propiedades tiene? etc)
+   Los datos que obtenemos al obtener la respuesta de una API es un objecto anomenado slip, que tiene dos propiedades: advice i id
